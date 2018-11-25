@@ -1,2 +1,2 @@
 # SlotMachine.exe
-Fun little python made Slot Machine App that I made. 
+Fun little Yython made Slot Machine App that can run on Windows. 
